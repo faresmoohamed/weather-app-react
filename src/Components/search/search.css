@@ -1,0 +1,31 @@
+.css-13cymwt-control, .css-t3ipsp-control{
+    width: 45%;
+    padding: 10px;
+    border-radius: 25px!important;
+    margin: 0 auto;
+    border-color: transparent!important;
+}
+
+.css-t3ipsp-control:hover{
+    border-color: transparent!important;
+}
+.css-b62m3t-container{
+    display: flex;
+    justify-content: center;
+}
+.css-1nmdiq5-menu{
+    width: 44.2%!important;
+    border-radius: 25px!important;
+    padding: 10px 20px!important;
+}
+.css-1hb7zxy-IndicatorsContainer{
+    display: none!important;
+}
+
+@media (max-width: 900px){
+    .css-13cymwt-control, 
+    .css-t3ipsp-control,
+    .css-1nmdiq5-menu{
+        width: 100%!important;
+    }
+}
